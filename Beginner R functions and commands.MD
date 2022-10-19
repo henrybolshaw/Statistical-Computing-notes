@@ -64,11 +64,15 @@ str_c("Two strings", "put together", sep=" - ")
 Factors can be useful with categorical variables e.g.
 `factor(x, levels=1:5, labels=c("one", "two", "three", "four", "five"))`
 
-##Converting datatypes
+## Converting datatypes
 `as.character()` - Converts to string
+
 `as.numeric()` - Converts to numeric
+
 `as.integer()` - converts to integer
+
 `as.logical()` - TRUE or FALSE
+
 `as.factor()` - Converts to factor 
 
 ## Dealing with missing values `NA`s
