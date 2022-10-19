@@ -1,6 +1,6 @@
 # Useful R functions and commands
 
-These notes are based off material from the University of Glasgow's Statistical Programming module.
+These notes are based off material from the University of Glasgow's [Statistical Programming module](https://www.gla.ac.uk/coursecatalogue/course/?code=STATS5078) (only weeks 1-3 so far).
 
 ## Getting started
 `install.packages()` - Install new R package
